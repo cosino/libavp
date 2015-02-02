@@ -1,0 +1,25 @@
+libavp (0.80.0) unstable; urgency=low
+
+  * Add new parameter SRC_CONF_PAR_TIDLEN to manage TID length
+
+ -- Rodolfo Giometti <giometti@linux.it>  Tue, 28 Feb 2012 14:35:38 +0100
+
+libavp (0.70.0) unstable; urgency=low
+
+  * Add new function avp_add_src_conf_parameter()
+
+ -- Rodolfo Giometti <giometti@linux.it>  Wed, 07 Dec 2011 13:50:18 +0100
+
+libavp (0.60.0) unstable; urgency=low
+
+  * Add brazilian regulation to supported regulations
+  * Force all reserved fields to 0.
+  * debian control: update package's dependecies
+
+ -- Rodolfo Giometti <giometti@linux.it>  Fri, 04 Nov 2011 10:52:25 +0100
+
+libavp (0.50.0) unstable; urgency=low
+
+  * Initial commit.
+
+ -- Rodolfo Giometti <giometti@linux.it>  Tue, 13 Sep 2011 12:51:00 +0200
